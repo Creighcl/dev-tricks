@@ -3,12 +3,15 @@
 - ESLint
 - indent-rainbow
 - Switch to test
+- vscode-icons
+- Auto Close Tag
 
 # VS Code Settings
 
 ```
 
 {
+    "workbench.iconTheme": "vscode-icons",
     "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
     "git.autofetch": true,
     "files.eol": "\n",
